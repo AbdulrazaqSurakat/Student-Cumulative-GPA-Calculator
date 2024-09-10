@@ -1,1 +1,1 @@
-# Student-Cumulative-GPA-Calculator
+I created the student and courses class. I also created the course objects in the student class. For the student and course constructors, I passed all the values in for the defined variables by reference to save memory space and also easier to just pass by reference because when you pass by reference, you are just referencing the variables/values rather than copying the objects!
